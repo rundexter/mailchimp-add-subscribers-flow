@@ -10,6 +10,10 @@
         {
             "id": "workflow_email_id",
             "title":"Workflow Email ID"
+        },
+        {
+            "id": "email_address",
+            "title":" Subscriber Email"
         }
     ],
     "outputs": [],
