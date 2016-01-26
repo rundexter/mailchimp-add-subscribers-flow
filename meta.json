@@ -17,6 +17,9 @@
         }
     ],
     "outputs": [],
+    "providers": [{
+        "name": "mailchimp "
+    }],
     "icon": "dex-mailchimp",
     "title": "Mailchimp - Add Subscriber to Workflow"
 }
